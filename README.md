@@ -113,14 +113,15 @@
 
 </details>
 
-### Studying in this Moment
+##
 
-<div align="center">
+<details>
+  <summary>Studying in this Moment</summary>
   
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   
-</div>
+</details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8257e5&height=128&section=footer"/>
